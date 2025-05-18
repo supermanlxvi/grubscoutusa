@@ -1,0 +1,20 @@
+.env.local
+dist/
+.next/
+*.log
+package-lock.json
+.DS_Store
+out/
+build/
+coverage/
+*.env
+*.env.local
+*.env.development
+*.env.production
+*.env.test
+!.gitignore
+.vscode/
+.idea/
+tmp/
+logs/
+" > .gitignore
